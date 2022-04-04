@@ -1,8 +1,7 @@
 /******************************************************************************
 *    
 *    Author: Jonathan McGlone
-*    Date: April 4th 2022
+*    Date: April 30th 2014
 *    Link: http://jmcglone.com/guides/github-pages/
-*    Files: index.html, main.css, config.yml
 *
 ******************************************************************************/
